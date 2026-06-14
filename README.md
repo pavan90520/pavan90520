@@ -1,18 +1,437 @@
-# 💫 About Me:
-Hi, I'm Pavan 👋  <br>An MSc graduate in Artificial Intelligence based in Dublin, actively seeking internship, graduate, or entry-level roles in AI, machine learning, or data science. I enjoy building hands-on projects and learning by working on real-world problems.<br><br>🔭 Currently working on:<br>Improving my machine learning and deep learning skills through personal projects in computer vision, NLP, and time series forecasting.<br><br>👯 Looking to collaborate on:<br>Beginner to intermediate ML and AI projects, open-source contributions, and data-driven applications.<br><br>🤝 Looking for help with:<br>Understanding industry best practices, model deployment, and transitioning ML projects from research to production.<br><br>💬 Ask me about:<br>Python, machine learning fundamentals, PyTorch, computer vision, NLP, and time series analysis.<br><br>⚡ Fun fact:<br>Most of my learning comes from building full projects end-to-end and breaking things until they work.<br>
+````md
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,50:6D28D9,100:7C3AED&text=Pavan%20Kumar%20Govind&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-govind-1a812a287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindpavan14@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=AI+Engineer;LLM+Systems+%7C+RAG+%7C+MLOps;MSc+Artificial+Intelligence;Building+Production+Ready+AI+Applications;Full+Stack+AI+Product+Engineer" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavan90520&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pavan90520&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan90520&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+![](https://img.shields.io/badge/MSc-Artificial%20Intelligence-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/National%20College%20of%20Ireland-Graduate-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Stamp%201G-Full%20Work%20Authorisation-7C3AED?style=for-the-badge)
+
+<br/>
+
+![](https://img.shields.io/badge/Location-Dublin%2C%20Ireland-312E81?style=for-the-badge)
+
+<br/>
+
+<a href="https://portfolio-inky-two-nu850zjaud.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pavan-kumar-govind-1a812a287/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pavankumargovind41@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pavan90520">
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=pavan90520&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/pavan90520?style=for-the-badge&color=4F46E5)
+![](https://img.shields.io/github/stars/pavan90520?affiliations=OWNER&style=for-the-badge&color=6D28D9)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavan90520&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+AI Engineer with an MSc in Artificial Intelligence from the National College of Ireland, specializing in Large Language Model systems, Retrieval-Augmented Generation (RAG), MLOps, and production-grade machine learning infrastructure.
+
+I design and deploy end-to-end AI applications that transform complex data into intelligent, scalable, and business-ready solutions. My experience spans document intelligence platforms, real-time inference APIs, deep learning systems, and cloud-native AI deployments.
+
+I enjoy solving engineering problems at scale by combining software engineering best practices with modern AI technologies. My focus is on building maintainable, measurable, and production-ready systems that create real-world impact.
+
+### Core Expertise
+
+- Artificial Intelligence Engineering
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- MLOps & Model Lifecycle Management
+- Machine Learning Infrastructure
+- FastAPI & Backend Engineering
+- Production AI Deployment
+- Cloud-Native Applications
+- Deep Learning & Computer Vision
+- Data-Driven Product Development
+
+### Open To
+
+- AI Engineer Roles
+- Machine Learning Engineer Roles
+- Applied AI Opportunities
+- MLOps Engineering
+- Backend Engineering
+- Platform Engineering
+- AI Product Development
+- Open Source Collaboration
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## AI / Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-6D28D9?style=for-the-badge"/>
+</p>
+
+## Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://img.shields.io/badge/REST-APIs-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge"/>
+</p>
+
+## MLOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux" />
+<img src="https://img.shields.io/badge/MLflow-Tracking-0194E2?style=for-the-badge"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|-------------|----------|
+| LLM Systems | Expert | Production-grade LLM applications and workflows |
+| Retrieval-Augmented Generation | Expert | Document Intelligence, Semantic Search, Knowledge Retrieval |
+| Machine Learning | Advanced | Model Development, Evaluation, Deployment |
+| Deep Learning | Advanced | CNNs, Transfer Learning, Neural Networks |
+| Computer Vision | Advanced | Medical Imaging, Classification Models |
+| MLOps | Advanced | MLflow, Docker, Model Versioning |
+| API Engineering | Advanced | FastAPI, Inference APIs, Production Services |
+| AI Product Engineering | Advanced | End-to-End AI Solution Development |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI Engineer — RAG-Based Document Intelligence Platform</b></summary>
+
+### Intelligent document question-answering platform powered by Retrieval-Augmented Generation.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, FAISS, HuggingFace, Streamlit |
+| Scale | 800+ Document Chunks |
+| Performance | 25–30% Retrieval Improvement |
+| Security | Source Grounding & Traceability |
+| Impact | Reduced Hallucination & Improved Trust |
+| Repository | https://github.com/pavan90520 |
+
+### Project Overview
+
+Designed and deployed a modular Retrieval-Augmented Generation architecture separating ingestion, embedding, retrieval, and generation layers for scalable document intelligence.
+
+### Key Contributions
+
+- Built a scalable RAG pipeline architecture
+- Implemented vector similarity search using FAISS
+- Improved retrieval precision by 25–30%
+- Reduced hallucination through retrieval-grounded responses
+- Added source attribution for explainability
+- Delivered real-time document querying experience
+
+</details>
+
+<details>
+<summary><b>ML Engineer — Production ML Pipeline & Low-Latency Inference API</b></summary>
+
+### End-to-end machine learning platform with deployment-ready serving infrastructure.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, FastAPI, MLflow, Docker |
+| Scale | 10,000+ Records |
+| Performance | Sub-200ms Response Time |
+| Security | Containerized Deployment |
+| Impact | 40% Faster Environment Setup |
+| Repository | https://github.com/pavan90520 |
+
+### Project Overview
+
+Built a complete ML lifecycle solution covering ingestion, validation, training, experiment tracking, deployment, and real-time serving.
+
+### Key Contributions
+
+- Developed production-ready FastAPI services
+- Implemented MLflow model versioning
+- Built reproducible Docker environments
+- Automated model lifecycle workflows
+- Optimized inference latency below 200ms
+
+</details>
+
+<details>
+<summary><b>ML Engineer — Medical Image Classification (MSc Dissertation)</b></summary>
+
+### Deep learning solution for multi-class chest X-ray classification.
+
+| Metric | Details |
+|----------|----------|
+| Stack | PyTorch, ResNet, DenseNet |
+| Scale | Multi-Class Medical Imaging Dataset |
+| Performance | 85% Classification Accuracy |
+| Security | Research Data Governance |
+| Impact | 15% Minority Class Improvement |
+| Repository | Academic Research Project |
+
+### Project Overview
+
+Developed advanced deep learning models for medical image classification using transfer learning and class imbalance handling techniques.
+
+### Key Contributions
+
+- Built ResNet and DenseNet architectures
+- Improved minority class performance by 15%
+- Implemented weighted loss functions
+- Achieved balanced precision, recall, and F1-score
+- Delivered robust classification performance across classes
+
+</details>
+
+---
+
+# Experience
+
+## Network Operations Intern | Vodafone
+
+**2022 – 2023**
+
+Worked within network operations and performance engineering teams, supporting data-driven monitoring, analytics, and operational reliability initiatives.
+
+### Scope of Work
+
+- Analyzed large-scale network KPI datasets
+- Identified recurring failure patterns and bottlenecks
+- Supported root cause investigations
+- Monitored production systems and performance
+- Collaborated on incident reviews
+- Contributed to operational reliability improvements
+
+**Skills:** `Data Analysis` `Network Operations` `Root Cause Analysis` `Monitoring` `Performance Engineering`
+
+---
+
+# Education
+
+## MSc Artificial Intelligence
+**National College of Ireland**  
+*2024 – 2025*
+
+Relevant Areas:
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Artificial Intelligence Systems
+- Research & Applied AI
+
+---
+
+## BTech Computer Science Engineering
+**Narsimha Reddy Engineering College**  
+*2019 – 2023*
+
+Relevant Areas:
+
+- Software Engineering
+- Data Structures & Algorithms
+- Database Systems
+- Computer Networks
+- Operating Systems
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| MSc Artificial Intelligence Graduate | National College of Ireland |
+| Production AI Systems Builder | Developed deployment-ready AI platforms |
+| RAG Engineering Specialist | Built document intelligence solutions |
+| MLOps Practitioner | Designed reproducible ML workflows |
+| Applied Deep Learning Researcher | Medical image classification research |
+| Full Work Authorisation | Ireland Stamp 1G |
+
+</div>
+
+---
+
+# Certifications
+
+## IBM SkillsBuild
+
+![](https://img.shields.io/badge/IBM-Machine%20Learning%20Methods%20and%20Tools-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+
+## Tata Group (Forage)
+
+![](https://img.shields.io/badge/Tata%20Group-GenAI%20Powered%20Data%20Analytics-2563EB?style=for-the-badge)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Technology%20Learning-1F2937?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/pavan90520">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Programming-16A34A?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-059669?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavan90520&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan90520&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pavan90520&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pavan90520&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavan90520&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pavan90520/pavan90520/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced RAG Architectures
+  - Agentic AI Systems
+  - Large Language Models
+  - Production MLOps
+
+building:
+  - Document Intelligence Platforms
+  - AI-Powered Applications
+  - Scalable Inference APIs
+
+exploring:
+  - Multi-Agent Systems
+  - AI Infrastructure
+  - Enterprise GenAI
+
+open_to:
+  - AI Engineer Roles
+  - Machine Learning Engineer Roles
+  - MLOps Opportunities
+  - Backend Engineering
+````
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:pavankumargovind41@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pavan-kumar-govind-1a812a287/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pavan90520">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-inky-two-nu850zjaud.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems that bridge cutting-edge AI research with real-world business impact."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,50:6D28D9,100:7C3AED"/>
+
+</div>
+```
